@@ -1,3 +1,4 @@
+flutter build web
 # Flutter on Codespaces
 
 This is a template repository for developing with [Flutter](https://flutter.dev/) on the web on [GitHub Codespaces](https://github.com/features/codespaces).
